@@ -1,0 +1,171 @@
+*{
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-left: 0px;
+	margin-bottom: 0px;
+}
+p{
+  font-size: 1em;
+}
+
+#The_internet{
+	font-size: 3em;
+	font-weight: 200;
+}
+#The_Web{
+	font-weight: 200;
+}
+h2{
+  font-size: 1.1em;
+  color: #37689C;
+}
+.WWW{
+  background-color: #567FA7;
+  color: white;
+  padding: 5px;
+}
+#www{
+  font-size: 1.4em;
+}
+#globe{
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+}
+
+#internet{
+  display: inline-block;;
+  vertical-align: bottom;;
+
+}
+#net{
+  color:blue;
+}
+.container{
+  width: 960px;
+  height: 1000px;
+  
+}
+.row{
+  width: 100%;
+  height: 1000px;
+}
+.side_bar{
+	width: 21%;
+	height: 900px;
+	display: inline-block;
+	margin-right: 1px;
+	vertical-align: top;
+	margin-top: 25px;
+}
+.main_content{
+	width: 74%;
+	height: 900px;
+	display: inline-block;
+	margin-left: 41px;
+}
+#image{
+	height: 160px;
+	width: 400px;
+	margin-left: 145px;
+}
+#button1{
+  box-shadow: 1px 1px 1px 1px #777777;
+  background-color: #5D8AB5;
+  color: white;
+  width: 200px;
+  height: 40px;
+  font-size: 1em;
+  border-radius: 5px;
+}
+
+#button2{
+  box-shadow: 1px 1px 1px 1px #777777;
+  background-color: #E2AA5D;
+  color: white;
+  width: 200px;
+  height: 40px;
+  font-size: 1em;
+  border-radius: 5px;
+  margin-bottom: 10px
+
+}
+
+#button3{
+  box-shadow: 1px black;
+  background-color: #6BC8DC;
+  color: white;
+  width: 175px;
+  height: 40px;
+  font-size: 1em;
+  border-radius: 5px;
+  margin-bottom: 10px
+
+}
+#ninja{
+	background-image: url(images/ad_background.png);
+	width: 200px;
+	height: 300px;
+}
+#reinvent{
+	color: white;
+	font-size: 1.3em;
+	text-align: center;
+}
+
+#reinvent_div{
+	padding-top: 20px;
+	padding-right: 10px;
+	text-align: center;
+}
+#DNS{
+	display: inline-block;
+	color:#35679B;
+}
+.big_3{
+	margin-top: 14px;
+	border-style: solid;
+	border-color: blue;
+}
+#big_three{
+	display: inline-block;
+	margin-left: 50px;
+
+}
+#big3_script{
+	vertical-align: top;
+	display: inline-block;
+	width: 500px;
+}
+#big3_images{
+	display: inline-block;
+	widows: 100px;
+}
+.words{
+	color:blueviolet;
+}
+#internets{
+	color: red;
+}
+.blue_Words{
+	color: #36679C;
+}
+.telephone{
+	display: inline-block
+}
+.telephone_numbers{
+	display:inline-block
+}
+#numbers{
+	color: aqua;
+	font-size: 2em;
+	font-weight:500;
+}
+#telephone_block{
+	margin-left: 450px;
+	margin-top: -20px;
+	display: inline-block;
+}
+#globe {
+	margin-top: 5px;
+}
